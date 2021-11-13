@@ -1,1 +1,0 @@
-spotify_api_key = "tBQTe__ZD5AQCeEYuCNn9X9B0GOBy3XA3Dsxt9Vh81jOobz3qFP0yqeXvYL94kQK"
