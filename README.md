@@ -1,5 +1,4 @@
-# learn-terraform-spotify
 
 Create a playlist on Spotify by writing it as a Terraform configuration.
+This contains high tempo songs for keeping you up while walking.
 
-Follow along with the tutorial at [learn.hashicorp.com](https://learn.hashicorp.com/tutorials/terraform/spotify-playlist).
